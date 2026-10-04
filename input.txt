@@ -1,0 +1,11 @@
+Organisational Hierarchy
+
+CEO → HR, Finance, IT
+IT → Development, Testing
+Development → Frontend, Backend
+
+Search Departments
+
+HR
+Testing
+Backend
