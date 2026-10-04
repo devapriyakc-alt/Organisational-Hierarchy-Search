@@ -10,6 +10,7 @@ The project also compares Linear Search and Binary Search for locating departmen
 
 The hierarchy is:
 
+```text
 CEO
 ├── HR
 ├── Finance
@@ -18,7 +19,7 @@ CEO
     │   ├── Frontend
     │   └── Backend
     └── Testing
-
+```
 ## Features
 
 - Construction of an organisational tree
