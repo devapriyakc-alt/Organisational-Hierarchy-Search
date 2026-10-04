@@ -1,0 +1,8 @@
+Level-order traversal:
+CEO HR Finance IT Development Testing Frontend Backend
+
+Search Comparison Results:
+Department	Linear	Binary
+HR	5	3
+Testing	7	3
+Backend	1	3
